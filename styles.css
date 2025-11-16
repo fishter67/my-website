@@ -1,0 +1,36 @@
+.background{
+  background-color:olive;
+}
+.title{
+  font-family: Comic Sans MS;
+  text-align: center;
+}
+.txt{
+  font-family: Comic Sans MS;
+}
+.body{
+  text-align: center;
+  background-color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.txt1{
+  font-family: Comic Sans MS;
+  text-align: center;
+}
+.txt2{
+  font-family: Comic Sans MS;
+  text-align: center;
+  padding-top:2%;
+}
+.img{
+  width: 50%;
+}
+.img:hover {
+	border: solid, 2px, blue;
+}
+.img1{
+  width:30%
+}
