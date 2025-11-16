@@ -8,13 +8,28 @@
 .txt{
   font-family: Comic Sans MS;
 }
+.box{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%; 
+  background-color: olive;
+  text-align: center;
+}
+.box{
+  background-color: olive;
+  position: fixed
+  top: 0;
+  left: 0;
+  width: 100%;
+}
 .body{
   text-align: center;
   background-color: white;
   margin-left: 10%;
   margin-right: 10%;
-  padding-top: 2%;
-  padding-bottom: 2%;
+  padding-top: 7%;
+  padding-bottom: 5%;
 }
 .txt1{
   font-family: Comic Sans MS;
